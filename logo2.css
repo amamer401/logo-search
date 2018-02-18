@@ -4,10 +4,12 @@ body{
   background-position: center;
     background-color:white;
     font-family: Lato;
-  border: 1px solid #bdc3c7;
+  /*border: 1px solid #bdc3c7;*/
 }
-#btn{
+h1{
 	text-align: center;
+	color: red;
+	font-family: italic;
 }
 
 .jumbotron{
